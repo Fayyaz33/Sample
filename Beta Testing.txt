@@ -1,0 +1,1 @@
+Trying to push files into the repository from Git Bash
